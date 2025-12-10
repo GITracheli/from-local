@@ -9,6 +9,7 @@ const b = () =>{
 const d  = () =>{
 
     confirm("Whats you sure?")
+}
 
 const c =() =>{
     console.log("function c")
